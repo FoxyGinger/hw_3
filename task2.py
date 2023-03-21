@@ -10,6 +10,7 @@
 #     -> 5
 
 import random
+
 nums = []
 for i in range(random.randint(5, 15)):
     nums.append(random.randint(1, 10))
